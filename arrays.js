@@ -24,7 +24,7 @@ var chocolateBars = [
   }
   
   function accessElementInArray (array, index) {
-    console.log (accessElementInArray[index]);
+    return array[index];
   }
   
   
